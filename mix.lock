@@ -15,7 +15,7 @@
   "makeup_erlang": {:hex, :makeup_erlang, "0.1.1", "3fcb7f09eb9d98dc4d208f49cc955a34218fc41ff6b84df7c75b3e6e533cc65f", [:mix], [{:makeup, "~> 1.0", [hex: :makeup, repo: "hexpm", optional: false]}], "hexpm", "174d0809e98a4ef0b3309256cbf97101c6ec01c4ab0b23e926a9e17df2077cbb"},
   "nimble_parsec": {:hex, :nimble_parsec, "1.2.1", "264fc6864936b59fedb3ceb89998c64e9bb91945faf1eb115d349b96913cc2ef", [:mix], [], "hexpm", "23c31d0ec38c97bf9adde35bc91bc8e1181ea5202881f48a192f4aa2d2cf4d59"},
   "operator": {:hex, :operator, "0.2.1", "4572312bbd3e63a5c237bf15c3a7670d568e3651ea744289130780006e70e5f5", [:mix], [], "hexpm", "1990cc6dc651d7fff04636eef06fc64e6bc1da83a1da890c08ca3432e17e267a"},
-  "quark": {:hex, :quark, "2.3.2", "066e0d431440d077684469967f54d732443ea2a48932e0916e974633e8b39c95", [:mix], [], "hexpm", "2f6423779b02afe7e3e4af3cfecfcd94572f2051664d4d8329ffa872d24b10a8"},
+  "quark": {:git, "https://github.com/florius0/quark.git", "84363ac39b75d39d1739c9bd42289a9514a363a2", [branch: "my-deps"]},
   "type_class": {:git, "https://github.com/florius0/type_class.git", "91ffc0023744ada800fbecdae82d548dbfd7911d", [branch: "my-deps"]},
-  "witchcraft": {:git, "https://github.com/florius0/witchcraft.git", "142a7ea6cf71e83eb29b7036d6364072f0e71926", [branch: "my-deps"]},
+  "witchcraft": {:git, "https://github.com/florius0/witchcraft.git", "7b8b037e730e0ab76a21981edf1dc283bb3518ab", [branch: "my-deps"]},
 }
