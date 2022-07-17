@@ -43,7 +43,7 @@ defmodule Algae.Mixfile do
       {:earmark,     "~> 1.4",  only: :dev,                 runtime: false},
       {:ex_doc,      "~> 0.23", only: :dev,                 runtime: false},
 
-      {:quark,       "~> 2.2"},
+      {:quark,       github: "florius0/quark",      branch: "my-deps"},
       {:type_class,  github: "florius0/type_class", branch: "my-deps"},
       {:witchcraft,  github: "florius0/witchcraft", branch: "my-deps"},
     ]
